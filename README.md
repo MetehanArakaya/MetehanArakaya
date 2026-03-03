@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Metehan%20Arakaya&fontSize=70&fontColor=ffffff&desc=Game%20Developer%20|%20Mobile%20Developer%20|%20Backend&descSize=20&descAlignY=65" alt="Metehan Arakaya Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Metehan%20Arakaya&fontSize=70&fontColor=ffffff&desc=Student%20|%20Full%20Stack%20Developer%20|%20Game%20Dev&descSize=20&descAlignY=65" alt="Metehan Arakaya Banner" />
 </p>
 
 <p align="center"> 
@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Metehan</h1>
-<h3 align="center">A passionate student and aspiring software developer from Turkey.</h3>
+<h3 align="center">A passionate student and an aspiring developer from Turkey.</h3>
 
 <br>
 
